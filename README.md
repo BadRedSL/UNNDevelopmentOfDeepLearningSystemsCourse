@@ -1,0 +1,2 @@
+# UNNDevelopmentOfDeepLearningSystemsCourse
+Repository with solutions for UNNDevelopmentOfDeepLearningSystemsCourse
